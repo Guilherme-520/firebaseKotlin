@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseKotlin</string>
+    <string name="usuario">Informe seu usuario</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="btnlogin">LOGIN</string>
+    <string name="btncadastro">CADASTRAR</string>
+    <string name="btnregistrar"></string>
+    <string name="voltar">Deslogar</string>
+
+</resources>
